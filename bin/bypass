@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+var macproxy = require('../');
+var argv = process.argv.slice(2);
+
+macproxy.loadbypass();

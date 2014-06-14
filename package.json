@@ -1,0 +1,24 @@
+{
+  "name": "bypass",
+  "version": "0.0.1",
+  "description": "config your bypass of proxy by using `networksetup` tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yorkie/node-bypass.git"
+  },
+  "keywords": [
+    "bypass",
+    "command",
+    "line"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-bypass/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-bypass"
+}
